@@ -3,7 +3,7 @@
 <h3 align="center">I am a first-year student👨🏻‍🎓 at @KPR Institute of Engineering and Technology, pursuing a degree in artificial intelligence and machine learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimalan-parameshwaran&label=Profile%20views&color=0e75b6&style=flat" alt="nimalan-parameshwaran" /> </p>
-<img align="right" alt="Coding" width="400" src=https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif>
+<img align="right" alt="Coding" width="350" src=https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif>
 
 
 
