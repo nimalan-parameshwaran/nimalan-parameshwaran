@@ -1,15 +1,15 @@
-![MasterHead](https://www.tatvasoft.com/outsourcing/wp-content/uploads/2022/09/Which-software-developer-skills-you-should-look-for-in-a-Developer.jpg)
-<h1 align="center">Vanakkam 🙏, I'm Nimalan Parameshwaran</h1>
-<h3 align="center">I am a first-year student👨🏻‍🎓 at @KPR Institute of Engineering and Technology, pursuing a degree in artificial intelligence and machine learning.</h3>
+![MasterHead](https://img.freepik.com/vector/pecat_318237-453.jpg?size=1626&ext=jpg&uid=R99536247&ga=GA1.1.1699252684.1681134457&semt=robertav1_2_sidr)
+<h1 align="center"> vanakkam🙏, I'm Nimalan Parameshwaran</h1>
+<h3 align="center">I am a first-year student👨🏻‍🎓 at KPR Institute of Engineering and Technology, pursuing a degree in artificial intelligence and machine learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimalan-parameshwaran&label=Profile%20views&color=0e75b6&style=flat" alt="nimalan-parameshwaran" /> </p>
-<img align="right" alt="Coding" width="350" src=https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif>
+<img align="right" alt="Coding" width="450" src=https://www.mygo.ge/uploads/blog/1584023795.jpg>
 
 
 
-- 💬 Ask me about **Python, Excel, Tableau, Data visualization**
+- 👨‍💻skills: **Python, Excel, Tableau, Data visualization**
 
-- 📫 How to reach me **nimalan936@gamil.com**
+- ✉️ How to reach me **nimalan936@gamil.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
