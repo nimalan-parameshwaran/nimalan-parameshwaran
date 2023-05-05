@@ -1,5 +1,5 @@
 ![MasterHead](https://img.freepik.com/vector/pecat_318237-453.jpg?size=1626&ext=jpg&uid=R99536247&ga=GA1.1.1699252684.1681134457&semt=robertav1_2_sidr)
-<h1 align="center"> vanakkam🙏, I'm Nimalan Parameshwaran</h1>
+<h1 align="center"> Hi🙏, I'm Nimalan Parameshwaran</h1>
 <h3 align="center">I am a first-year student👨🏻‍🎓 at KPR Institute of Engineering and Technology, pursuing a degree in artificial intelligence and machine learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimalan-parameshwaran&label=Profile%20views&color=0e75b6&style=flat" alt="nimalan-parameshwaran" /> </p>
