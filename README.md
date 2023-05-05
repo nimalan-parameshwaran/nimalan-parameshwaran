@@ -15,7 +15,6 @@
 <p align="left">
 <a href="https://twitter.com/nimalan49032055" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nimalan49032055" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nimalan-parameshwaran-97b7a2256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nimalan-parameshwaran-97b7a2256" height="30" width="40" /></a>
-<a href="https://instagram.com/nimalan.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nimalan.__" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
